@@ -1,0 +1,3 @@
+/home/al1s/code/C++/play/CMakeFiles/rebuild_cache.dir
+/home/al1s/code/C++/play/CMakeFiles/edit_cache.dir
+/home/al1s/code/C++/play/CMakeFiles/main.dir

@@ -1,0 +1,7 @@
+print('abs')
+print(list(range(1,10)))
+number=list(range(0,10))
+print(number[::2])
+fruit=("apple","tomato","banana")
+fruit+=(1,2,3)
+print(fruit)

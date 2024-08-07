@@ -1,0 +1,3 @@
+/home/al1s/code/C++/test2/CMakeFiles/rebuild_cache.dir
+/home/al1s/code/C++/test2/CMakeFiles/edit_cache.dir
+/home/al1s/code/C++/test2/CMakeFiles/main.dir
